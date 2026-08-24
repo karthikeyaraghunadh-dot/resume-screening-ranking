@@ -1,0 +1,1 @@
+Python, AWS, Docker, Kubernetes, FastAPI, SQL, Git, REST APIs, Linux. Cloud developer with limited ML experience.
