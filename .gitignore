@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+models/
+reports/*.png
+reports/*.csv
+data/*.pdf

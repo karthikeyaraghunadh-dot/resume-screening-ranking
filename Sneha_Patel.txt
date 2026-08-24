@@ -1,0 +1,1 @@
+Python, NLP, Machine Learning, Scikit-learn, NLTK, spaCy, Pandas, NumPy, Statistics, Git, Deep Learning, PyTorch. Built NLP pipelines.

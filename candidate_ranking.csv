@@ -1,0 +1,11 @@
+Rank,Candidate,Final Score,Similarity,Skill Coverage,Fit,Matched Skills,Missing Skills
+1,Aarav Sharma,67.7,50.61,93.33,Good Fit,"aws, deep learning, docker, fastapi, git, machine learning, nlp, numpy, pandas, python, scikit-learn, sql, statistics, tensorflow",pytorch
+2,Meera Nair,62.76,46.82,86.67,Good Fit,"aws, deep learning, git, machine learning, nlp, numpy, pandas, python, pytorch, scikit-learn, sql, statistics, tensorflow","docker, fastapi"
+3,Ananya Iyer,53.1,39.61,73.33,Moderate Fit,"git, machine learning, nlp, numpy, pandas, python, pytorch, scikit-learn, sql, statistics, tensorflow","aws, deep learning, docker, fastapi"
+4,Sneha Patel,45.63,31.61,66.67,Moderate Fit,"deep learning, git, machine learning, nlp, numpy, pandas, python, pytorch, scikit-learn, statistics","aws, docker, fastapi, sql, tensorflow"
+5,Divya Krishnan,41.47,29.11,60.0,Moderate Fit,"git, machine learning, nlp, numpy, pandas, python, scikit-learn, sql, statistics","aws, deep learning, docker, fastapi, pytorch, tensorflow"
+6,Priya Reddy,40.74,27.91,60.0,Moderate Fit,"git, machine learning, nlp, numpy, pandas, python, scikit-learn, sql, statistics","aws, deep learning, docker, fastapi, pytorch, tensorflow"
+7,Rahul Kumar,23.09,11.82,40.0,Low Fit,"aws, docker, fastapi, git, python, sql","deep learning, machine learning, nlp, numpy, pandas, pytorch, scikit-learn, statistics, tensorflow"
+8,Kiran Rao,22.62,11.03,40.0,Low Fit,"aws, docker, fastapi, git, python, sql","deep learning, machine learning, nlp, numpy, pandas, pytorch, scikit-learn, statistics, tensorflow"
+9,Vikram Singh,19.8,10.78,33.33,Low Fit,"git, pandas, python, sql, statistics","aws, deep learning, docker, fastapi, machine learning, nlp, numpy, pytorch, scikit-learn, tensorflow"
+10,Arjun Verma,7.72,3.97,13.33,Low Fit,"git, python","aws, deep learning, docker, fastapi, machine learning, nlp, numpy, pandas, pytorch, scikit-learn, sql, statistics, tensorflow"

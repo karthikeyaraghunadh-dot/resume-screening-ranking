@@ -1,0 +1,1 @@
+Python, Machine Learning, Scikit-learn, Pandas, NumPy, SQL, NLP, Git, Statistics, TensorFlow, PyTorch. Built spam and support-ticket classifiers.

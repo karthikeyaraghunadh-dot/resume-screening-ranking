@@ -1,0 +1,4 @@
+Junior Machine Learning Engineer
+Required: Python, Machine Learning, Scikit-learn, Pandas, NumPy, SQL, NLP, Git, Statistics.
+Preferred: TensorFlow, PyTorch, Deep Learning, Docker, AWS, FastAPI.
+Responsibilities: Build ML models, analyze data, develop NLP solutions, use SQL and Git, communicate results.

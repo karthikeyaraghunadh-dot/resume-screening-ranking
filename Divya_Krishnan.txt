@@ -1,0 +1,1 @@
+Python, Machine Learning, Pandas, NumPy, Scikit-learn, SQL, Statistics, Git, NLP, Matplotlib. Built forecasting and NLP projects.
